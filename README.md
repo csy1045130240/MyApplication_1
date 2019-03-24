@@ -5,3 +5,5 @@
 ![](https://github.com/csy1045130240/MyApplication_1/blob/master/images/exp_2.1.PNG)
 ![](https://github.com/csy1045130240/MyApplication_1/blob/master/images/exp_2.2.PNG)
 ![](https://github.com/csy1045130240/MyApplication_1/blob/master/images/exp_2.3.PNG)
+![](https://github.com/csy1045130240/MyApplication_1/blob/master/images/3.1.jpg)
+![](https://github.com/csy1045130240/MyApplication_1/blob/master/images/3.1_2.jpg)
