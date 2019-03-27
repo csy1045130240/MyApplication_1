@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".Main7Activity_MenuTest">
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/testContext"
+        android:text="用于测试的内容"/>
+    <Button
+        android:id="@+id/button7_change"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textColor="#FFFFFF"
+        android:gravity="center"
+        android:background="#BC8F8F"
+        android:layout_below="@+id/VIOLET"
+        android:padding="1dp"
+        android:text="跳转"
+        android:layout_margin="1dp"/>
+</LinearLayout>
