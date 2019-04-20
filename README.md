@@ -19,3 +19,6 @@
 ![](https://github.com/csy1045130240/MyApplication_1/blob/master/images/3.3.7.jpg)
 ![](https://github.com/csy1045130240/MyApplication_1/blob/master/images/3.4.1.jpg)
 ![](https://github.com/csy1045130240/MyApplication_1/blob/master/images/3.4.2.jpg)
+![](https://github.com/csy1045130240/MyApplication_1/blob/master/images/PrefereceFragment_1.jpg)
+![](https://github.com/csy1045130240/MyApplication_1/blob/master/images/PrefereceFragment_2.jpg)
+![](https://github.com/csy1045130240/MyApplication_1/blob/master/images/PrefereceFragment_3.jpg)
