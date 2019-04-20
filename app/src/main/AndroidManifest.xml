@@ -9,7 +9,8 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".Main8Activity_ActionMode"></activity>
+        <activity android:name=".Main9Activity_Settings"></activity>
+        <activity android:name=".Main8Activity_ActionMode" />
         <activity android:name=".Main7Activity_MenuTest" />
         <activity android:name=".Main6Activity_AlertDialog" />
         <activity android:name=".Main5Activity_SimpleAdapter" />
